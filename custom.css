@@ -1,0 +1,85 @@
+.jumbotron {
+    background-color: #19BC9C;
+}
+
+h1 {
+    font-size: 4em;
+}
+
+h2 {
+    font-size: 3em;
+}
+
+h1, h2, span {
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.portfolio {
+    color: black;
+}
+
+.png-1 {
+    background-image: url(img/cabin.png);
+    background-size: cover;
+    border-radius: 0.7em;
+    width: 95%;
+    height: 95%;
+}
+
+.png-2 {
+    background-image: url(img/cake.png);
+    background-size: cover;
+    border-radius: 0.7em;
+    width: 95%;
+    height: 95%;
+}
+
+.png-3 {
+    background-image: url(img/circus.png);
+    background-size: cover;
+    border-radius: 0.7em;
+    width: 95%;
+    height: 95%;
+}
+
+.png-4 {
+    background-image: url(img/game.png);
+    background-size: cover;
+    border-radius: 0.7em;
+    width: 95%;
+    height: 95%;
+}
+
+.png-5 {
+    background-image: url(img/safe.png);
+    background-size: cover;
+    border-radius: 0.7em;
+    width: 95%;
+    height: 95%;
+}
+
+.png-6 {
+    background-image: url(img/submarine.png);
+    background-size: cover;
+    border-radius: 0.7em;
+    width: 95%;
+    height: 95%;
+}
+
+form {
+    margin-bottom: 50px;
+}
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+  }
+
+  @media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
